@@ -1,1 +1,1 @@
-# config-center-new
+# config-center

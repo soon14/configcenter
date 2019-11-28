@@ -1,4 +1,4 @@
-# config-center
+# config-center 配置中心后台
 
 ## 主要功能
 - 分布式配置文件管理
@@ -6,7 +6,9 @@
 - 版本管理
 - 差异对比
 
-## 技术实现
+## 主要技术
+Restful Web API
+
 - MySQL集群，分布式主从读写分离
 - Zookeeper， 配置服务发现管理
 - redis， 文件缓存，共享session

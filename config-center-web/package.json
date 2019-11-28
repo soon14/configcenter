@@ -2,7 +2,7 @@
   "name": "config-center-web",
   "version": "1.0.0",
   "description": "配置中心前台界面",
-  "author": "zhangxiangxin <zhangxx_88@163.com>",
+  "author": "",
   "private": true,
   "scripts": {
     "build": "node build/build.js",
